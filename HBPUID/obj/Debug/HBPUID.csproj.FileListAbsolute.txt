@@ -1,0 +1,15 @@
+C:\Users\Hanno\documents\visual studio 2010\Projects\WindowsFormsApplication1\HBPUID\bin\Debug\HBPUID.dll
+C:\Users\Hanno\documents\visual studio 2010\Projects\WindowsFormsApplication1\HBPUID\bin\Debug\HBPUID.pdb
+C:\Users\Hanno\documents\visual studio 2010\Projects\WindowsFormsApplication1\HBPUID\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hanno\documents\visual studio 2010\Projects\WindowsFormsApplication1\HBPUID\obj\Debug\HBPUID.dll
+C:\Users\Hanno\documents\visual studio 2010\Projects\WindowsFormsApplication1\HBPUID\obj\Debug\HBPUID.pdb
+W:\Development\Visual Studio 2010\Projects\WindowsFormsApplication1\HBPUID\bin\Debug\HBPUID.dll
+W:\Development\Visual Studio 2010\Projects\WindowsFormsApplication1\HBPUID\bin\Debug\HBPUID.pdb
+W:\Development\Visual Studio 2010\Projects\WindowsFormsApplication1\HBPUID\obj\Debug\ResolveAssemblyReference.cache
+W:\Development\Visual Studio 2010\Projects\WindowsFormsApplication1\HBPUID\obj\Debug\HBPUID.dll
+W:\Development\Visual Studio 2010\Projects\WindowsFormsApplication1\HBPUID\obj\Debug\HBPUID.pdb
+Z:\Development\Visual Studio 2010\Projects\WindowsFormsApplication1\HBPUID\bin\Debug\HBPUID.dll
+Z:\Development\Visual Studio 2010\Projects\WindowsFormsApplication1\HBPUID\bin\Debug\HBPUID.pdb
+Z:\Development\Visual Studio 2010\Projects\WindowsFormsApplication1\HBPUID\obj\Debug\HBPUID.dll
+Z:\Development\Visual Studio 2010\Projects\WindowsFormsApplication1\HBPUID\obj\Debug\HBPUID.pdb
+Z:\Development\Visual Studio 2010\Projects\WindowsFormsApplication1\HBPUID\obj\Debug\HBPUID.csprojResolveAssemblyReference.cache
